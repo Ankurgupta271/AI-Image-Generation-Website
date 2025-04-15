@@ -27,5 +27,5 @@ Welcome to the **AI Image Generation Website** — a cutting-edge web applicatio
 | **Mongoose**   | Elegant MongoDB object modeling for Node.js                                 |
 | **Cloudinary** | Cloud-based image and video management                                      |
 | **OpenAI API** | Integration with OpenAI's DALL·E model for text-to-image generation         |
-|______________________________________________________________________________________________|
+
 ---
