@@ -42,11 +42,11 @@ Welcome to the **AI Image Generation Website** — a cutting-edge web applicatio
 
 ```bash
 # Backend setup
-cd backend
+cd server
 npm install
 npm run dev
 
 # Frontend setup
-cd frontend
+cd client
 npm install
 npm run dev
