@@ -6,7 +6,7 @@ Welcome to the **AI Image Generation Website** — a cutting-edge web applicatio
 
 ## 📸 Demo Screenshots
 
-<img src="Picture1.png" alt="Homepage Screenshot" width="100%"/>
+![Homepage Screenshot](Picture1.png)
 <br/>
 <img src="Picture2.png" alt="Generated Image Example" width="100%"/>
 
