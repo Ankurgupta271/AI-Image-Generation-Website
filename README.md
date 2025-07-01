@@ -4,6 +4,14 @@ Welcome to the **AI Image Generation Website** — a cutting-edge web applicatio
 
 ---
 
+## 📸 Demo Screenshots
+
+<img src="Picture1.png" alt="Homepage Screenshot" width="100%"/>
+<br/>
+<img src="Picture2.png" alt="Generated Image Example" width="100%"/>
+
+---
+
 ## 🚀 Features
 
 - 🖼️ **AI-Powered Image Generation** using OpenAI’s DALL·E
@@ -29,3 +37,16 @@ Welcome to the **AI Image Generation Website** — a cutting-edge web applicatio
 | **OpenAI API** | Integration with OpenAI's DALL·E model for text-to-image generation         |
 
 ---
+
+## 🧑‍💻 Getting Started
+
+```bash
+# Backend setup
+cd backend
+npm install
+npm run dev
+
+# Frontend setup
+cd frontend
+npm install
+npm run dev
